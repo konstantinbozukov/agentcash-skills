@@ -36,6 +36,7 @@ npx skills add Merit-Systems/agentcash-skills/mcp --all --yes
 | Skill | Use For | Endpoints |
 |-------|---------|-----------|
 | [agentcash](skills/agentcash/) | Wallet, search, discover, and paid calls to any x402 API | x402 / MPP |
+| [pathmint](skills/pathmint/) | Ping an x402 URL live vs ghost before paying; optional pay-clearance | Pathmint |
 | [upload-and-share](skills/upload-and-share/) | Upload files & get public URLs | StableUpload |
 | [media-generation](skills/media-generation/) | AI image & video generation | StableStudio |
 | [social-scraping](skills/social-scraping/) | Scrape profiles, posts, followers across 6 platforms | StableSocial |
